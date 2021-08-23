@@ -32,4 +32,28 @@ class CfgVehicles
         sound = "POD_Sounds_Mechanic_SFX";
         displayName = "[POD] Mechanic";
     };
+	
+    class POD_Sounds_Supermarket: Sound 
+	{
+        author = "Platoon of Danes - Mikkelsen";
+        scope = 2;
+        sound = "POD_Sounds_Supermarket_SFX";
+        displayName = "[POD] Supermarket";
+    };
+	
+    class POD_Sounds_Market_Busy: Sound 
+	{
+        author = "Platoon of Danes - Mikkelsen";
+        scope = 2;
+        sound = "POD_Sounds_Market_Busy_SFX";
+        displayName = "[POD] Market Busy";
+    };
+	
+    class POD_Sounds_Market_Small: Sound 
+	{
+        author = "Platoon of Danes - Mikkelsen";
+        scope = 2;
+        sound = "POD_Sounds_Market_Small_SFX";
+        displayName = "[POD] Market Small";
+    };
 };

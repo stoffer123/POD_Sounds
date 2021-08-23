@@ -23,4 +23,22 @@ class CfgSounds
         sound[] = {"POD_Sounds\POD_Sounds\sounds\POD_Sounds_Mechanic.ogg",0.5,1};
         titles[] = {};
     };
+
+    class POD_Sounds_Supermarket
+	{
+        sound[] = {"POD_Sounds\POD_Sounds\sounds\POD_Sounds_Supermarket.ogg",0.5,1};
+        titles[] = {};
+    };
+	
+    class POD_Sounds_Market_Busy
+	{
+        sound[] = {"POD_Sounds\POD_Sounds\sounds\POD_Sounds_Market_Busy.ogg",0.5,1};
+        titles[] = {};
+    };
+	
+    class POD_Sounds_Market_Small
+	{
+        sound[] = {"POD_Sounds\POD_Sounds\sounds\POD_Sounds_Market_Small.ogg",0.5,1};
+        titles[] = {};
+    };
 };

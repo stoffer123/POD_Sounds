@@ -31,4 +31,28 @@ class CfgSFX
         POD_Sounds_Mechanic[] = {"POD_Sounds\POD_Sounds\sounds\POD_Sounds_Mechanic.ogg",100,1,50,1,0,0,0};
         empty[] = {"",0,0,0,0,0,0,0};
     };
+	
+    class POD_Sounds_Supermarket_SFX
+	{
+        name = "[POD] Supermarket";
+        sounds[] = {"POD_Sounds_Supermarket"};
+        POD_Sounds_Supermarket[] = {"POD_Sounds\POD_Sounds\sounds\POD_Sounds_Supermarket.ogg",100,1,60,1,0,0,0};
+        empty[] = {"",0,0,0,0,0,0,0};
+    };
+	
+    class POD_Sounds_Market_Busy_SFX
+	{
+        name = "[POD] Market Busy";
+        sounds[] = {"POD_Sounds_Market_Busy"};
+        POD_Sounds_Market_Busy[] = {"POD_Sounds\POD_Sounds\sounds\POD_Sounds_Market_Busy.ogg",100,1,150,1,0,0,0};
+        empty[] = {"",0,0,0,0,0,0,0};
+    };
+	
+    class POD_Sounds_Market_Small_SFX
+	{
+        name = "[POD] Market Small";
+        sounds[] = {"POD_Sounds_Market_Small"};
+        POD_Sounds_Market_Small[] = {"POD_Sounds\POD_Sounds\sounds\POD_Sounds_Market_Small.ogg",100,1,150,1,0,0,0};
+        empty[] = {"",0,0,0,0,0,0,0};
+    };
 };
