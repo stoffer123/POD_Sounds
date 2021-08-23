@@ -1,0 +1,13 @@
+name = "[POD] Sounds";
+author = "Platoon of Danes - Mikkelsen";
+picture = "POD_Sounds_Logo.paa";
+actionName = "Website";
+action = "http://www.platoonofdanes.com/";
+description = "Platoon of Danes Ambience sounds";
+logo = "POD_Sounds_Logo.paa";
+logoOver = "POD_Sounds_Logo.paa";
+tooltip = "Platoon of Danes";
+overview = "Platoon of Danes";
+overviewPicture = "POD_Sounds_Logo.paa";
+overviewText = "";
+overviewFootnote = "";
