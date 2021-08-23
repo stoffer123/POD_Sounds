@@ -22,5 +22,13 @@ class CfgSFX
         sounds[] = {"POD_Sounds_Incoming"};
         POD_Sounds_Incoming[] = {"POD_Sounds\POD_Sounds\sounds\POD_Sounds_Incoming.ogg",300,1,2000,1,0,0,0};
         empty[] = {"",0,0,0,0,0,0,0};
+	};
+	
+    class POD_Sounds_Mechanic_SFX
+	{
+        name = "[POD] Mechanic";
+        sounds[] = {"POD_Sounds_Mechanic"};
+        POD_Sounds_Mechanic[] = {"POD_Sounds\POD_Sounds\sounds\POD_Sounds_Mechanic.ogg",100,1,50,1,0,0,0};
+        empty[] = {"",0,0,0,0,0,0,0};
     };
 };
