@@ -55,4 +55,12 @@ class CfgSFX
         POD_Sounds_Market_Small[] = {"POD_Sounds\POD_Sounds\sounds\POD_Sounds_Market_Small.ogg",100,1,150,1,0,0,0};
         empty[] = {"",0,0,0,0,0,0,0};
     };
+	
+    class POD_Sounds_Generator_SFX
+	{
+        name = "[POD] Generator";
+        sounds[] = {"POD_Sounds_Generator"};
+        POD_Sounds_Generator[] = {"POD_Sounds\POD_Sounds\sounds\POD_Sounds_Generator.ogg",80,1,125,1,0,0,0};
+        empty[] = {"",0,0,0,0,0,0,0};
+    };
 };

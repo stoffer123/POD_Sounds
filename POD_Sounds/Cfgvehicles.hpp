@@ -56,4 +56,12 @@ class CfgVehicles
         sound = "POD_Sounds_Market_Small_SFX";
         displayName = "[POD] Market Small";
     };
+	
+    class POD_Sounds_Generator: Sound 
+	{
+        author = "Platoon of Danes - Mikkelsen";
+        scope = 2;
+        sound = "POD_Sounds_Generator_SFX";
+        displayName = "[POD] Generator";
+    };
 };
