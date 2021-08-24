@@ -24,3 +24,6 @@ POD_Sounds_Supermarket
 POD_Sounds_Market_Busy
 POD_Sounds_Market_Small
 POD_Sounds_Generator
+POD_Sounds_Radio_RUS_01
+POD_Sounds_Radio_US_01
+
