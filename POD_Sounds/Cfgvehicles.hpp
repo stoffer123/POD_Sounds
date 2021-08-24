@@ -73,11 +73,27 @@ class CfgVehicles
         displayName = "[POD] RADIO RUS chatter 01";
     };
 	
+    class POD_Sounds_Radio_RUS_02: Sound 
+	{
+        author = "Platoon of Danes - Mikkelsen";
+        scope = 2;
+        sound = "POD_Sounds_Radio_RUS_02_SFX";
+        displayName = "[POD] RADIO RUS chatter 02";
+    };
+	
     class POD_Sounds_Radio_US_01: Sound 
 	{
         author = "Platoon of Danes - Mikkelsen";
         scope = 2;
         sound = "POD_Sounds_Radio_US_01_SFX";
         displayName = "[POD] RADIO US chatter 01 (Apache killing taleban)";
+    };
+	
+    class POD_Sounds_Radio_US_02: Sound 
+	{
+        author = "Platoon of Danes - Mikkelsen";
+        scope = 2;
+        sound = "POD_Sounds_Radio_US_02_SFX";
+        displayName = "[POD] RADIO US chatter 02";
     };
 };

@@ -54,9 +54,21 @@ class CfgSounds
         titles[] = {};
     };
 	
+    class POD_Sounds_Radio_RUS_02
+	{
+        sound[] = {"POD_Sounds\POD_Sounds\sounds\POD_Sounds_Radio_RUS_02.ogg",0.5,1};
+        titles[] = {};
+    };
+	
     class POD_Sounds_Radio_US_01
 	{
         sound[] = {"POD_Sounds\POD_Sounds\sounds\POD_Sounds_Radio_US_01.ogg",0.5,1};
+        titles[] = {};
+    };
+	
+    class POD_Sounds_Radio_US_02
+	{
+        sound[] = {"POD_Sounds\POD_Sounds\sounds\POD_Sounds_Radio_US_02.ogg",0.5,1};
         titles[] = {};
     };
 };

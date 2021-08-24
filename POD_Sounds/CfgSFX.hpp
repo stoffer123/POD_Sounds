@@ -71,6 +71,14 @@ class CfgSFX
         POD_Sounds_Radio_RUS_01[] = {"POD_Sounds\POD_Sounds\sounds\POD_Sounds_Radio_RUS_01.ogg",80,1,15,1,0,0,0};
         empty[] = {"",0,0,0,0,0,0,0};
     };
+
+    class POD_Sounds_Radio_RUS_02_SFX
+	{
+        name = "[POD] RADIO RUS chatter 02";
+        sounds[] = {"POD_Sounds_Radio_RUS_02"};
+        POD_Sounds_Radio_RUS_02[] = {"POD_Sounds\POD_Sounds\sounds\POD_Sounds_Radio_RUS_02.ogg",80,1,15,1,0,0,0};
+        empty[] = {"",0,0,0,0,0,0,0};
+    };
 	
     class POD_Sounds_Radio_US_01_SFX
 	{
@@ -79,4 +87,14 @@ class CfgSFX
         POD_Sounds_Radio_US_01[] = {"POD_Sounds\POD_Sounds\sounds\POD_Sounds_Radio_US_01.ogg",80,1,15,1,0,0,0};
         empty[] = {"",0,0,0,0,0,0,0};
     };
+	
+    class POD_Sounds_Radio_US_02_SFX
+	{
+        name = "[POD] RADIO US chatter 02";
+        sounds[] = {"POD_Sounds_Radio_US_02"};
+        POD_Sounds_Radio_US_02[] = {"POD_Sounds\POD_Sounds\sounds\POD_Sounds_Radio_US_02.ogg",80,1,15,1,0,0,0};
+        empty[] = {"",0,0,0,0,0,0,0};
+    };
+	
+
 };
