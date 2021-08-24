@@ -63,4 +63,20 @@ class CfgSFX
         POD_Sounds_Generator[] = {"POD_Sounds\POD_Sounds\sounds\POD_Sounds_Generator.ogg",80,1,125,1,0,0,0};
         empty[] = {"",0,0,0,0,0,0,0};
     };
+	
+    class POD_Sounds_Radio_RUS_01_SFX
+	{
+        name = "[POD] RADIO RUS chatter 01";
+        sounds[] = {"POD_Sounds_Radio_RUS_01"};
+        POD_Sounds_Radio_RUS_01[] = {"POD_Sounds\POD_Sounds\sounds\POD_Sounds_Radio_RUS_01.ogg",80,1,15,1,0,0,0};
+        empty[] = {"",0,0,0,0,0,0,0};
+    };
+	
+    class POD_Sounds_Radio_US_01_SFX
+	{
+        name = "[POD] RADIO US chatter 01 (Apache killing taleban)";
+        sounds[] = {"POD_Sounds_Radio_US_01"};
+        POD_Sounds_Radio_US_01[] = {"POD_Sounds\POD_Sounds\sounds\POD_Sounds_Radio_US_01.ogg",80,1,15,1,0,0,0};
+        empty[] = {"",0,0,0,0,0,0,0};
+    };
 };
