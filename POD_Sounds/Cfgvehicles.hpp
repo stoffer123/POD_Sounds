@@ -1,5 +1,7 @@
 class CfgVehicles 
 {
+	
+	//Misc
     class Sound;
     class POD_Sounds_Test: Sound 
 	{
@@ -9,6 +11,7 @@ class CfgVehicles
         displayName = "[POD] Sounds Test";
     };
 	
+	//Alarms
     class POD_Sounds_AirRaid: Sound 
 	{
         author = "Platoon of Danes - Mikkelsen";
@@ -25,6 +28,8 @@ class CfgVehicles
         displayName = "[POD] Incoming";
     };
 	
+	
+	//Ambience
     class POD_Sounds_Mechanic: Sound 
 	{
         author = "Platoon of Danes - Mikkelsen";
@@ -65,6 +70,9 @@ class CfgVehicles
         displayName = "[POD] Generator";
     };
 	
+	
+	
+	//Radio chatter
     class POD_Sounds_Radio_RUS_01: Sound 
 	{
         author = "Platoon of Danes - Mikkelsen";
@@ -96,4 +104,57 @@ class CfgVehicles
         sound = "POD_Sounds_Radio_US_02_SFX";
         displayName = "[POD] RADIO US chatter 02";
     };
+	
+	
+	//Animals
+	class POD_Sounds_Animals_Goat_01: Sound 
+	{
+        author = "Platoon of Danes - Mikkelsen";
+        scope = 2;
+        sound = "POD_Sounds_Animals_Goat_01_SFX";
+        displayName = "[POD] Animal Goat 01";
+    };
+	
+    class POD_Sounds_Animals_Sheep_01: Sound 
+	{
+        author = "Platoon of Danes - Mikkelsen";
+        scope = 2;
+        sound = "POD_Sounds_Animals_Sheep_01_SFX";
+        displayName = "[POD] Animal Sheep 01";
+    };
+
+    class POD_Sounds_Animals_Seagull_01: Sound 
+	{
+        author = "Platoon of Danes - Mikkelsen";
+        scope = 2;
+        sound = "POD_Sounds_Animals_Seagull_01_SFX";
+        displayName = "[POD] Animal Seagull 01";
+    };
+	
+    class POD_Sounds_Animals_Chicken_01: Sound 
+	{
+        author = "Platoon of Danes - Mikkelsen";
+        scope = 2;
+        sound = "POD_Sounds_Animals_Chicken_01_SFX";
+        displayName = "[POD] Animal Chicken 01";
+    };
+	
+	
+	//Prayer
+    class POD_Sounds_Prayer_Mosque_01: Sound 
+	{
+        author = "Platoon of Danes - Mikkelsen";
+        scope = 2;
+        sound = "POD_Sounds_Prayer_Mosque_01_SFX";
+        displayName = "[POD] Prayer Mosque 01";
+    };
+	
+    class POD_Sounds_Prayer_Mosque_02: Sound 
+	{
+        author = "Platoon of Danes - Mikkelsen";
+        scope = 2;
+        sound = "POD_Sounds_Prayer_Mosque_02_SFX";
+        displayName = "[POD] Prayer Mosque 02";
+    };
+
 };
