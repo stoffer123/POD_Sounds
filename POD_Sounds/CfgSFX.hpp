@@ -155,4 +155,103 @@ class CfgSFX
         POD_Sounds_Prayer_Mosque_02[] = {"POD_Sounds\POD_Sounds\sounds\POD_Sounds_Prayer_Mosque_02.ogg",100,1,1000,1,0,0,0};
         empty[] = {"",0,0,0,0,0,0,0};
     };
+
+
+
+
+    //Xmasmusic
+    class POD_Sounds_alliwant_SFX
+	{
+        name = "[POD] all i want for xmas";
+        sounds[] = {"POD_Sounds_alliwant"};
+        POD_Sounds_alliwant[] = {"POD_Sounds\POD_Sounds\xmas\alliwant.ogg",100,1,60,1,0,0,0};
+        empty[] = {"",0,0,0,0,0,0,0};
+    };
+	
+	class POD_Sounds_hawaiixmas_SFX
+	{
+        name = "[POD] Hawaii xmas";
+        sounds[] = {"POD_Sounds_hawaiixmas"};
+        POD_Sounds_hawaiixmas[] = {"POD_Sounds\POD_Sounds\xmas\hawaiixmas.ogg",100,1,60,1,0,0,0};
+        empty[] = {"",0,0,0,0,0,0,0};
+    };
+
+	class POD_Sounds_juliangora_SFX
+	{
+        name = "[POD] Jul i angora";
+        sounds[] = {"POD_Sounds_juliangora"};
+        POD_Sounds_juliangora[] = {"POD_Sounds\POD_Sounds\xmas\juliangora.ogg",100,1,60,1,0,0,0};
+        empty[] = {"",0,0,0,0,0,0,0};
+    };
+	
+	class POD_Sounds_juligen_SFX
+	{
+        name = "[POD] Nu det jul igen";
+        sounds[] = {"POD_Sounds_juligen"};
+        POD_Sounds_juligen[] = {"POD_Sounds\POD_Sounds\xmas\juligen.ogg",100,1,60,1,0,0,0};
+        empty[] = {"",0,0,0,0,0,0,0};
+    };
+
+    class POD_Sounds_lastxmas_SFX
+	{
+        name = "[POD] Last xmas";
+        sounds[] = {"POD_Sounds_lastxmas"};
+        POD_Sounds_lastxmas[] = {"POD_Sounds\POD_Sounds\xmas\lastxmas.ogg",100,1,60,1,0,0,0};
+        empty[] = {"",0,0,0,0,0,0,0};
+    };
+	
+	class POD_Sounds_merryxmas_SFX
+	{
+        name = "[POD] Merry xmas";
+        sounds[] = {"POD_Sounds_merryxmas"};
+        POD_Sounds_merryxmas[] = {"POD_Sounds\POD_Sounds\xmas\merryxmas.ogg",100,1,60,1,0,0,0};
+        empty[] = {"",0,0,0,0,0,0,0};
+    };
+    
+	class POD_Sounds_modjadi_SFX
+	{
+        name = "[POD] Modjadi";
+        sounds[] = {"POD_Sounds_modjadi"};
+        POD_Sounds_modjadi[] = {"POD_Sounds\POD_Sounds\xmas\modjadi.ogg",100,1,60,1,0,0,0};
+        empty[] = {"",0,0,0,0,0,0,0};
+    };
+	
+	class POD_Sounds_navidad_SFX
+	{
+        name = "[POD] Felix navidad";
+        sounds[] = {"POD_Sounds_navidad"};
+        POD_Sounds_navidad[] = {"POD_Sounds\POD_Sounds\xmas\navidad.ogg",100,1,60,1,0,0,0};
+        empty[] = {"",0,0,0,0,0,0,0};
+    };
+
+	class POD_Sounds_pilarm_SFX
+	{
+        name = "[POD]Eilert Pilarm";
+        sounds[] = {"POD_Sounds_pilarm"};
+        POD_Sounds_pilarm[] = {"POD_Sounds\POD_Sounds\xmas\pilarm.ogg",100,1,60,1,0,0,0};
+        empty[] = {"",0,0,0,0,0,0,0};
+    };
+    
+	class POD_Sounds_shittytoxic_SFX
+	{
+        name = "[POD] Shitty toxic";
+        sounds[] = {"POD_Sounds_shittytoxic"};
+        POD_Sounds_shittytoxic[] = {"POD_Sounds\POD_Sounds\xmas\shittytoxic.ogg",100,1,60,1,0,0,0};
+        empty[] = {"",0,0,0,0,0,0,0};
+    };
+	
+	class POD_Sounds_taesktiljul_SFX
+	{
+        name = "[POD] Taesk til jul";
+        sounds[] = {"POD_Sounds_taesktiljul"};
+        POD_Sounds_taesktiljul[] = {"POD_Sounds\POD_Sounds\xmas\taesktiljul.ogg",100,1,60,1,0,0,0};
+        empty[] = {"",0,0,0,0,0,0,0};
+    };
+
+
+
+
+
+
+
 };

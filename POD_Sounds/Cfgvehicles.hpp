@@ -157,4 +157,94 @@ class CfgVehicles
         displayName = "[POD] Prayer Mosque 02";
     };
 
+    //Xmas
+    class POD_Sounds_alliwant: Sound 
+	{
+        author = "Platoon of Danes - Mikkelsen";
+        scope = 2;
+        sound = "POD_Sounds_alliwant_SFX";
+        displayName = "[POD] all i want for xmas";
+    };
+
+    class POD_Sounds_hawaiixmas: Sound 
+	{
+        author = "Platoon of Danes - Mikkelsen";
+        scope = 2;
+        sound = "POD_Sounds_hawaiixmas_SFX";
+        displayName = "[POD] Hawaii xmas ";
+    };
+
+    class POD_Sounds_juliangora: Sound 
+	{
+        author = "Platoon of Danes - Mikkelsen";
+        scope = 2;
+        sound = "POD_Sounds_juliangora_SFX";
+        displayName = "[POD] Jul i angora";
+    };
+
+    class POD_Sounds_juligen: Sound 
+	{
+        author = "Platoon of Danes - Mikkelsen";
+        scope = 2;
+        sound = "POD_Sounds_juligen_SFX";
+        displayName = "[POD] Nu det jul igen";
+    };
+    class POD_Sounds_lastxmas: Sound 
+	{
+        author = "Platoon of Danes - Mikkelsen";
+        scope = 2;
+        sound = "POD_Sounds_lastxmas_SFX";
+        displayName = "[POD] Last xmas";
+    };
+
+    class POD_Sounds_merryxmas: Sound 
+	{
+        author = "Platoon of Danes - Mikkelsen";
+        scope = 2;
+        sound = "POD_Sounds_merryxmas_SFX";
+        displayName = "[POD] merry xmas";
+    };
+
+    class POD_Sounds_modjadi: Sound 
+	{
+        author = "Platoon of Danes - Mikkelsen";
+        scope = 2;
+        sound = "POD_Sounds_modjadi_SFX";
+        displayName = "[POD] Modjadi";
+    };
+
+    class POD_Sounds_navidad: Sound 
+	{
+        author = "Platoon of Danes - Mikkelsen";
+        scope = 2;
+        sound = "POD_Sounds_navidad_SFX";
+        displayName = "[POD]Feliz navidad ";
+    };
+
+    class POD_Sounds_pilarm: Sound 
+	{
+        author = "Platoon of Danes - Mikkelsen";
+        scope = 2;
+        sound = "POD_Sounds_pilarm_SFX";
+        displayName = "[POD] Eilert pilarm";
+    };
+
+    class POD_Sounds_shittytoxic: Sound 
+	{
+        author = "Platoon of Danes - Mikkelsen";
+        scope = 2;
+        sound = "POD_Sounds_shittytoxic_SFX";
+        displayName = "[POD] shitty toxic";
+    };
+
+    class POD_Sounds_taesktiljul: Sound 
+	{
+        author = "Platoon of Danes - Mikkelsen";
+        scope = 2;
+        sound = "POD_Sounds_taesktiljul_SFX";
+        displayName = "[POD]Taesk til jul ";
+    };
+
+
+
 };

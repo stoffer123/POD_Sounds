@@ -23,6 +23,17 @@ class CfgPatches
 		"POD_Sounds_Animals_Chicken_01",
 		"POD_Sounds_Prayer_Mosque_01",
 		"POD_Sounds_Prayer_Mosque_02",
+		"POD_Sounds_alliwant",
+		"POD_Sounds_hawaiixmas",
+		"POD_Sounds_juliangora",
+		"POD_Sounds_juligen",
+		"POD_Sounds_lastxmas",
+		"POD_Sounds_merryxmas",
+		"POD_Sounds_modjadi",
+		"POD_Sounds_navidad",
+		"POD_Sounds_pilarm",
+		"POD_Sounds_shittytoxic",
+		"POD_Sounds_taesktiljul"
 		};
         weapons[] = {};
     };
