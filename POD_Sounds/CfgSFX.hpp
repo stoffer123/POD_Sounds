@@ -248,6 +248,14 @@ class CfgSFX
         empty[] = {"",0,0,0,0,0,0,0};
     };
 
+	class POD_Sounds_Battlefield_1_SFX
+	{
+        name = "[POD] Battlefield 1";
+        sounds[] = {"POD_Sounds_Battlefield_1"};
+        POD_Sounds_Battlefield_1[] = {"POD_Sounds\POD_Sounds\sounds\POD_Sounds_Battlefield_1.ogg",60,1,3000,1,0,0,0};
+        empty[] = {"",0,0,0,0,0,0,0};
+    };
+
 
 
 

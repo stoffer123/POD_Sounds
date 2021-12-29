@@ -245,6 +245,14 @@ class CfgVehicles
         displayName = "[POD]Taesk til jul ";
     };
 
+    class POD_Sounds_Battlefield_1: Sound 
+	{
+        author = "Platoon of Danes - Mikkelsen";
+        scope = 2;
+        sound = "POD_Sounds_Battlefield_1_SFX";
+        displayName = "[POD]Battlefield 1 ";
+    };
+
 
 
 };

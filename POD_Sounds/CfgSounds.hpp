@@ -186,6 +186,11 @@ class CfgSounds
         titles[] = {};	
 	};
 
+    class POD_Sounds_Battlefield_1
+	{
+        sound[] = {"POD_Sounds\POD_Sounds\sounds\POD_Sounds_Battlefield_1.ogg",0.5,1};
+        titles[] = {};	
+	};
 
 
 };

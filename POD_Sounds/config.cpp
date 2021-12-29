@@ -33,7 +33,8 @@ class CfgPatches
 		"POD_Sounds_navidad",
 		"POD_Sounds_pilarm",
 		"POD_Sounds_shittytoxic",
-		"POD_Sounds_taesktiljul"
+		"POD_Sounds_taesktiljul",
+		"POD_Sounds_Battlefield_1"
 		};
         weapons[] = {};
     };
